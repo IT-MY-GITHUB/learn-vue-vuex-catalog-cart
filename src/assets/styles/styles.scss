@@ -1,0 +1,14 @@
+@import 'variables.scss';
+
+.btn {
+  padding: 6px 12px;
+  background: $green-bg;
+  color: #fff;
+  border: 0px;
+  border-radius: $radius;
+  transition: all 0.3s ease;
+  &:hover{
+    cursor: pointer;
+    background: darken($green-bg,15);
+  }
+}

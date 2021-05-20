@@ -1,4 +1,4 @@
-# online-shop-vuex-scss
+# task-vue-vuex-scss
 
 ## Project setup
 ```
